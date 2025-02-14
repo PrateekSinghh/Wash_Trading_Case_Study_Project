@@ -26,7 +26,6 @@ Installation
 Follow these steps to set up the project locally:
 
 1. Clone the repository:
-git clone https://github.com/SruthiMangu133/Wash-Trading-Case-Study-for-ERC20-Token.git
 
 2. Navigate into the project directory:
 cd Wash-Trading-Case-Study-for-ERC20-Token
